@@ -17,7 +17,7 @@ This project involves fine-tuning SaulLM, a legal language model (LLM), on two d
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Fawaazx/Finetuned_SAULLM.git
    cd your-repository
 ## Setup Instructions
 
