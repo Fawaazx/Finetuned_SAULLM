@@ -25,25 +25,25 @@ This project involves fine-tuning SaulLM, a legal language model (LLM), on two d
 
 First, you need to download the necessary models by running the `model_download.py` script. This script will handle downloading and setting up all required models for the project.
 
-\`\`\`bash
+```bash
 python model_download.py
-\`\`\`
+
 
 ### Step 2: Run `app.py`
 
 Once the models have been successfully downloaded, you can start the application by running the `app.py` script.
 
-\`\`\`bash
+```bash
 python app.py
-\`\`\`
+
 
 ## Additional Information
 
 - Ensure you have all the dependencies installed before running the scripts. You can install them using:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+
 
 - If you encounter any issues, please check the logs for error messages and verify that all dependencies are correctly installed.
 
