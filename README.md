@@ -27,6 +27,7 @@ First, you need to download the necessary models by running the `model_download.
 
 ```bash
 python model_download.py
+```bash
 
 
 ### Step 2: Run `app.py`
@@ -35,7 +36,7 @@ Once the models have been successfully downloaded, you can start the application
 
 ```bash
 python app.py
-
+```bash
 
 ## Additional Information
 
@@ -43,7 +44,7 @@ python app.py
 
 ```bash
 pip install -r requirements.txt
-
+```bash
 
 - If you encounter any issues, please check the logs for error messages and verify that all dependencies are correctly installed.
 
